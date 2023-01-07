@@ -1,0 +1,37 @@
+.table{
+
+margin-left: auto;
+margin: auto;
+}
+.h2{
+    text-align: center;
+   padding-top: 2%;
+   padding-bottom: 2%;
+}
+body{
+    background: rgb(189,141,221);
+background: linear-gradient(90deg, rgba(189,141,221,1) 0%, rgba(252,176,69,1) 39%, rgba(253,75,29,0.35760241596638653) 72%);
+}
+.tab{
+    background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
+
+
+.trow{
+  font-size: large;  
+  background-color: #bf5ce0;
+}
+
+
+/* APP.js */
+
+.add{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.empadd{
+    margin-left: 5%;
+    padding-left: 10%;
+    padding-right: 15%;
+}
